@@ -5,5 +5,5 @@
 Para rodar esse projeto na sua maquina, por favor digite:
 
 ```
-nmp install react
+node appl.js
 ```
